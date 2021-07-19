@@ -241,9 +241,9 @@ apache-webserver                                v1                  a93aaff0bc0c
 AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
 ````
 
-# View the Result in web browser
+# View the result in web browser
 
-## Step 7 : Launching the webserver using the created image
+## Step 8 : Launching the webserver using the created image
 
 * Open your web browser
 * Type the url below,
