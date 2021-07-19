@@ -179,8 +179,10 @@ Complete!
 * Create an index.html page in the location /var/www/html/
 * Run below command to create the html page,
   
-
+  
+````
     vi /var/www/html/index.html
+````
 
 * Type the below and save the html page,
 
@@ -202,6 +204,7 @@ Complete!
 * Run below command to exit the container,
 
     `exit`
+    
 # Create a new customized docker image
 
 ## Step 6 : Make a new customized docker image using docker commit command
