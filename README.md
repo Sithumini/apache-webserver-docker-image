@@ -3,7 +3,7 @@
 ## Author:
 Piyum Sithumini Senevirathne
 
-##The Task:
+## The Task:
 
 - Create a Dockerfile , that installs apache httpd.
 - The apache will render “Hello World” html file, that is found next to the Dockerfile (meaning, it needs to be copied into the container.)
