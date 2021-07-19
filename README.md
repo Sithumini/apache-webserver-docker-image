@@ -22,8 +22,9 @@ docker -v
 Docker pull command used to download the latest Centos image from Docker Hub repositories
 * Run below command to pull the latest Centos image
 
-
+```
     docker pull centos:latest
+```
 
 * You should get an output similar to below
 
@@ -37,8 +38,9 @@ Status: Image is up to date for centos:latest
 
 * Run below command to pull the latest Centos image
 
-
+```
     docker images centos
+```
 
 * You should get an output similar to below
 
