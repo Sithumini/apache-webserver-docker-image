@@ -34,7 +34,7 @@ Digest: sha256:5528e8b1b1719d34604c87e11dcd1c0a20bedf46e83b5632cdeac91b8c04efc1
 Status: Image is up to date for centos:latest
 ````
 
-### Check the Ubuntu images list
+### Check the centos images list
 
 * Run below command to pull the latest Centos image
 
