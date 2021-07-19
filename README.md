@@ -171,7 +171,7 @@ Complete!
 [root@ce06023bc77d /]#
 ````
 
-#configure the webpage
+# configure the webpage
 ## Step 4 : Create the webpage
 
 * Create an index.html page in the location /var/www/html/
