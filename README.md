@@ -256,17 +256,27 @@ AH00558: httpd: Could not reliably determine the server's fully qualified domain
 
 ![img.png](img.png)
 
-# Save the Docker image as a tar file
+# Get the image from Docker hub
+
+* You can pull the image from below Docker hub repository location
+
+```
+https://hub.docker.com/repository/docker/sithuminis/webserver
+```
+
+# Additional commands to save, copy to new system and load the image
+
+## Save the Docker image as a tar file
 
 * Run below command to save the image,
 ````
 docker save -o apache-webserver.tar centos:latest apache-webserver:v1
 ````
-# Copy the image to a new system
+## Copy the image to a new system
 
 * Copy the image to a new system with regular file transfer tools such as cp, scp or rsync (preferred for big files).
 
-# Load the image into Docker
+## Load the image into Docker
 
 * Run below command to load the image into docker,
 
